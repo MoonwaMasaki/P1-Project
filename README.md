@@ -117,4 +117,3 @@ For any additional questions, please contact me [email](moonwaangela@gmail.com)
 
 
 By selecting aircraft from manufacturers with proven lower fatality rates (Airbus, Embraer, ATR) and avoiding models with consistently poor safety records, the company can significantly reduce operational risk, protect passenger safety, minimize liability exposure, and enhance corporate reputation in the aviation market.
-# Project1
