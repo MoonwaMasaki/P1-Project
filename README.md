@@ -113,4 +113,4 @@ By selecting aircraft from manufacturers with proven lower fatality rates (Airbu
 
 See the full analysis in the [Jupyter Notebook](https://github.com/MoonwaMasaki/P1-Project/blob/main/project.ipynb) or review this [presentation](./Aviation_Safety_Analysis_Template.pptx.pdf).
 
-For additional info, contact me at (moonwaangela@gmail.com)
+For additional info, contact me at[email](moonwaangela@gmail.com)
