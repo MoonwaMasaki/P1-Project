@@ -47,15 +47,19 @@ Here are the 4 key visualizations that highlight important insight:
 
 1. Top 10 Aircraft Types by Crash Count
     - This visualization shows which airplane types have historically experienced the most crashes.
+    [graph1](./images/p1.png)
 
 2. Aviation Accidents Over Time 
     - Demonstrates how accidents have evolved over the decades, highlighting improvements in safety or identifying high-risk periods.
+    [graph2](./images/p2.png)
 
 3. Aircraft Type by Fatalities 
     - Displays the total number of fatalities per aircraft type, helping identify higher-risk models.
+    [graph3](./images/p3.png)
 
 4. Top 10 Aircraft Types: Fatal vs Non-Fatal Accidents
     - Breaks down accidents into fatal and non-fatal categories for the ten most common aircraft types. This helps identify which types are more likely to result in serious outcomes.
+    [graph4](./images/p4.png)
 
 ### **3. Conclusion**
 
@@ -103,3 +107,10 @@ Based on the analysis of aviation accident data from 2018-2022, several key find
 **Business Impact:**
 
 By selecting aircraft from manufacturers with proven lower fatality rates (Airbus, Embraer, ATR) and avoiding models with consistently poor safety records, the company can significantly reduce operational risk, protect passenger safety, minimize liability exposure, and enhance corporate reputation in the aviation market.
+
+
+**For More Information**
+
+See the full analysis in the [Jupyter Notebook](https://github.com/MoonwaMasaki/P1-Project/blob/main/project.ipynb) or review this [presentation](./Aviation_Safety_Analysis_Template.pptx.pdf).
+
+For additional info, contact me at (moonwaangela@gmail.com)
